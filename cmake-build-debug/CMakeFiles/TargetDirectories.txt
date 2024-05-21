@@ -1,0 +1,3 @@
+/Users/mikhailalexeev/GitHub/Minesweeper-CPP/cmake-build-debug/CMakeFiles/Minesweeper_CPP.dir
+/Users/mikhailalexeev/GitHub/Minesweeper-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mikhailalexeev/GitHub/Minesweeper-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
